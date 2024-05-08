@@ -16,3 +16,6 @@ const test = jsc.forall(jsc.nat, function(n) {
 
 jsc.assert(test);
 
+// For the test I reviewed the test code form tail-recursion-ziyuWang6666
+
+
