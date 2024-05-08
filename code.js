@@ -8,5 +8,11 @@ function fib(n, a = 0, b = 1, fibArr = []) {
     }
 }
 
+// for the tail recursion function I looked at a couple repositories to gain an
+// of what to do. 
+// tail-recursion-Dhruv8806
+// tail-recursion-IshitaPatel18
+
+
 
 
